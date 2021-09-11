@@ -15,7 +15,7 @@ class Header extends React.Component {
 
   render() {
     return (
-      <nav className="NavbarItems">
+      <nav className="navbarItems">
         <div className="menu-icon" onClick={this.handleClick}>
           <FontAwesomeIcon icon={this.state.clicked ? faTimes : faBars} />
         </div>

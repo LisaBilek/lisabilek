@@ -5,18 +5,23 @@ export const MenuItems = [
     cName: "nav-links",
   },
   {
-    title: "Timeline",
-    url: "Timeline",
-    cName: "nav-links",
-  },
-  {
     title: "Projects",
     url: "Projects",
     cName: "nav-links",
   },
   {
+    title: "Timeline",
+    url: "Timeline",
+    cName: "nav-links",
+  },
+  {
     title: "Skills",
     url: "Skills",
+    cName: "nav-links",
+  },
+  {
+    title: "Hobbies",
+    url: "Hobbies",
     cName: "nav-links",
   },
   {

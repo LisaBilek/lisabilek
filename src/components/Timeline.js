@@ -1,9 +1,36 @@
 import React from "react";
+import TimelineItem from "./TimelineItem";
+import "./Timeline.css";
 
-class Footer extends React.Component {
+class Timeline extends React.Component {
   render() {
-    return <div id="Timeline">Timeline</div>;
+    return (
+      <div id="Timeline">
+        <div className="section-title"> Timeline </div>
+        <ul className="timeline-elements">
+          <TimelineItem
+            date={"2021/2022 (Present)"}
+            place={"University of Poiters, France"}
+            subject={
+              "Master's degree in computer science, specialized in software design and development"
+            }
+          />
+          <TimelineItem
+            date={"2020/2021"}
+            place={"University of Poiters, France"}
+            subject={"Bachelor's degree in computer science"}
+          />
+          <TimelineItem
+            date={"2019/2020"}
+            place={"University of Tizi Ouzou, Algeria"}
+            subject={
+              "Master's degree in computer science, specialized in software design and development"
+            }
+          />
+        </ul>
+      </div>
+    );
   }
 }
 
-export default Footer;
+export default Timeline;

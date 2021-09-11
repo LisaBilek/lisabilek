@@ -11,7 +11,8 @@
 }
 
 #Footer #left {
-  background-color: #C16E70;
+  /* background-color: #C16E70; */
+  background-color: #151E3F;
   color: #F2F3D9;
   flex-grow: 1;
   height: 100%;
@@ -36,8 +37,8 @@
 }
 
 #Footer #right {
-  background-color: #F2F3D9;
-  color: #151E3F;
+  background-color: #151E3F;
+  color: #F2F3D9;
   flex-grow: 1;
   height: 100%;
   display: flex;

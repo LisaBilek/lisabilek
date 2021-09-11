@@ -1,9 +1,14 @@
 import React from "react";
+import "./Skills.css";
 
-class Footer extends React.Component {
+class Skills extends React.Component {
   render() {
-    return <div id="Skills">Skills</div>;
+    return (
+      <div id="Skills">
+        <div className="section-title">Skills</div>
+      </div>
+    );
   }
 }
 
-export default Footer;
+export default Skills;
