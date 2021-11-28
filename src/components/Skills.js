@@ -6,6 +6,9 @@ class Skills extends React.Component {
     return (
       <div id="Skills">
         <div className="section-title">Skills</div>
+        <div className="">
+          <img src="" alt="" />
+        </div>
       </div>
     );
   }
