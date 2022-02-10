@@ -21,11 +21,9 @@ class Timeline extends React.Component {
             subject={"Bachelor's degree in computer science"}
           />
           <TimelineItem
-            date={"2019/2020"}
+            date={"2017/2020"}
             place={"University of Tizi Ouzou, Algeria"}
-            subject={
-              "Master's degree in computer science, specialized in software design and development"
-            }
+            subject={"Bachelor's degree in computer science"}
           />
         </ul>
       </div>
