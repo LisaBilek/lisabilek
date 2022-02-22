@@ -44,6 +44,7 @@
   padding-top: 15vh;
   background-color: #151E3F;
   color: #F2F3D9;
-  height: 100vh;
+  height: auto;
+  padding-bottom: 15vh;
 }
 

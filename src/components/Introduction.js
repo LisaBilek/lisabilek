@@ -1,7 +1,7 @@
 import React from "react";
 import "./Introduction.css";
 
-class Footer extends React.Component {
+class Introduction extends React.Component {
   render() {
     return (
       <div id="Introduction">
@@ -10,7 +10,7 @@ class Footer extends React.Component {
           <div className="intro-text">
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/pcProfilePic.png`}
-              alt="profile-picture"
+              alt="profile"
             />
           </div>
         </div>
@@ -30,4 +30,4 @@ class Footer extends React.Component {
   }
 }
 
-export default Footer;
+export default Introduction;

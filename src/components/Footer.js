@@ -1,7 +1,6 @@
 import React from "react";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
-import InstagramIcon from "@material-ui/icons/Instagram";
 import PhoneIcon from "@material-ui/icons/Phone";
 import ContactMailIcon from "@material-ui/icons/ContactMail";
 import LocationCityIcon from "@material-ui/icons/LocationCity";
@@ -38,10 +37,13 @@ class Footer extends React.Component {
         </div>
         <div id="right">
           <div className="text-social">Contact me</div>
-          <div class="social-media">
-            <GitHubIcon fontSize="large" />
-            <LinkedInIcon fontSize="large" />
-            <InstagramIcon fontSize="large" />
+          <div className="social-media">
+            <a href="https://github.com/lisabilek">
+              <GitHubIcon fontSize="large" />
+            </a>
+            <a href="https://www.linkedin.com/in/lisa-bilek/">
+              <LinkedInIcon fontSize="large" />
+            </a>
           </div>
         </div>
       </div>

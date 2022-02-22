@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { faTimes } from "@fortawesome/free-solid-svg-icons";
 import "./Header.css";
-import { Link, animateScroll, Element, Events as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 
 class Header extends React.Component {
   state = { clicked: false };

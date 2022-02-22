@@ -7,7 +7,7 @@ import Skills from "./components/Skills";
 import Hobbies from "./components/Hobbies";
 import Projects from "./components/Projects";
 import Introduction from "./components/Introduction";
-import { Link, animateScroll, Element, Events as scroll } from "react-scroll";
+import { Element } from "react-scroll";
 
 class App extends Component {
   state = {

@@ -59,6 +59,11 @@
   width: 30%;
 }
 
+.social-media a {
+  text-decoration: none;
+  color: #F2F3D9;
+}
+
 @media screen and (max-width: 700px) {
   .social-media {
     display: flex;
