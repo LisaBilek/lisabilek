@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lisabilek/static/css/main.894791e8.chunk.css",
-    "main.js": "/lisabilek/static/js/main.87d99002.chunk.js",
-    "main.js.map": "/lisabilek/static/js/main.87d99002.chunk.js.map",
+    "main.css": "/lisabilek/static/css/main.c23be8dd.chunk.css",
+    "main.js": "/lisabilek/static/js/main.a071f217.chunk.js",
+    "main.js.map": "/lisabilek/static/js/main.a071f217.chunk.js.map",
     "runtime-main.js": "/lisabilek/static/js/runtime-main.58c6ff0e.js",
     "runtime-main.js.map": "/lisabilek/static/js/runtime-main.58c6ff0e.js.map",
     "static/js/2.5e329c4b.chunk.js": "/lisabilek/static/js/2.5e329c4b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.13965082.chunk.js": "/lisabilek/static/js/3.13965082.chunk.js",
     "static/js/3.13965082.chunk.js.map": "/lisabilek/static/js/3.13965082.chunk.js.map",
     "index.html": "/lisabilek/index.html",
-    "static/css/main.894791e8.chunk.css.map": "/lisabilek/static/css/main.894791e8.chunk.css.map",
+    "static/css/main.c23be8dd.chunk.css.map": "/lisabilek/static/css/main.c23be8dd.chunk.css.map",
     "static/js/2.5e329c4b.chunk.js.LICENSE.txt": "/lisabilek/static/js/2.5e329c4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58c6ff0e.js",
     "static/js/2.5e329c4b.chunk.js",
-    "static/css/main.894791e8.chunk.css",
-    "static/js/main.87d99002.chunk.js"
+    "static/css/main.c23be8dd.chunk.css",
+    "static/js/main.a071f217.chunk.js"
   ]
 }
