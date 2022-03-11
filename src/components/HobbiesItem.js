@@ -1,10 +1,10 @@
 import React from "react";
-import "./css/ProjectsItem.css";
+import "./css/HobbiesItem.css";
 
-class ProjectsItem extends React.Component {
+class HobbiesItem extends React.Component {
   render() {
     return (
-      <div className="projects-tile">
+      <div className="hobbies-tile">
         <div className="subject">{this.props.subject}</div>
 
         <div className="divider"></div>
@@ -13,12 +13,10 @@ class ProjectsItem extends React.Component {
 
         <div className="image">
           <img src={this.props.image} alt={this.props.alt} />
-          <img src={this.props.image2} alt={this.props.alt2} />
-          <img src={this.props.image3} alt={this.props.alt3} />
         </div>
       </div>
     );
   }
 }
 
-export default ProjectsItem;
+export default HobbiesItem;

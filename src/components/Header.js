@@ -3,7 +3,7 @@ import { MenuItems } from "./MenuItems";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { faTimes } from "@fortawesome/free-solid-svg-icons";
-import "./Header.css";
+import "./css/Header.css";
 import { Link } from "react-scroll";
 
 class Header extends React.Component {

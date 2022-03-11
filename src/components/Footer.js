@@ -4,7 +4,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import PhoneIcon from "@material-ui/icons/Phone";
 import ContactMailIcon from "@material-ui/icons/ContactMail";
 import LocationCityIcon from "@material-ui/icons/LocationCity";
-import "./Footer.css";
+import "./css/Footer.css";
 
 class Footer extends React.Component {
   render() {

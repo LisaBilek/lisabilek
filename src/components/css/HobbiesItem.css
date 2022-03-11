@@ -1,13 +1,15 @@
-.projects-tile {
+.hobbies-tile {
   background-color: white;
   color: black;
+  font-size: large;
   box-shadow:
   0 2.6px 4.5px rgba(0, 0, 0, 0.015),
   0 21px 36px rgba(0, 0, 0, 0.03);
-  width: 50%;
+  width: 40%;
   border-radius: 0.1rem;
   padding: 1rem;
   margin: 1rem 0;
+  border-radius: 2ex;
 }
 
 .divider {

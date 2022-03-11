@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectsItem from "./ProjectsItem";
-import "./Projects.css";
+import "./css/Projects.css";
 
 class Projects extends React.Component {
   render() {
@@ -27,6 +27,8 @@ class Projects extends React.Component {
             alt="java_logo"
             image2={`${process.env.PUBLIC_URL}/assets/images/javafx.png`}
             alt2="javafx_logo"
+            image3={`${process.env.PUBLIC_URL}/assets/images/scenebuilder.png`}
+            alt3="scenebuilder_logo"
           />
           <ProjectsItem
             subject={
@@ -47,6 +49,8 @@ class Projects extends React.Component {
             alt="unity_logo"
             image2={`${process.env.PUBLIC_URL}/assets/images/cs.png`}
             alt2="c_sharp_logo"
+            image3={`${process.env.PUBLIC_URL}/assets/images/android.png`}
+            alt3="android_logo"
           />
         </ul>
       </div>
