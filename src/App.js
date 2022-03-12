@@ -29,12 +29,12 @@ class App extends Component {
             <Projects />
           </Element>
 
-          <Element name="Timeline" className="element">
-            <Timeline />
-          </Element>
-
           <Element name="Skills" className="element">
             <Skills />
+          </Element>
+
+          <Element name="Timeline" className="element">
+            <Timeline />
           </Element>
 
           <Element name="Hobbies" className="element">

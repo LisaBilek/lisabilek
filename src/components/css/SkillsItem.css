@@ -1,4 +1,4 @@
-.hobbies-tile {
+.skills-tile {
   background-color: white;
   color: black;
   font-size: large;
@@ -32,15 +32,4 @@
   height: auto;
   padding-right: 1vh;
 }
-
-a {
-  text-decoration: none;
-  color: black;
-  width: fit-content;
-}
-
-a:hover .image img {
-  transform: scale(1.2);
-}
-
 

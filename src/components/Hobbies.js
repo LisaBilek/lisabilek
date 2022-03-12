@@ -9,9 +9,10 @@ class Hobbies extends React.Component {
         <div className="section-title">Hobbies</div>
         <div className="hobbies-elements">
           <HobbiesItem
-            subject={"Nature photography"}
+            subject={"Nature photography, click to visit my instagram gallery"}
             image={`${process.env.PUBLIC_URL}/assets/images/camera.png`}
             alt="camera"
+            link="https://www.instagram.com/starrynight_618/"
           />
           <HobbiesItem
             subject={"Learning new languages"}

@@ -5,7 +5,7 @@
   box-shadow:
   0 2.6px 4.5px rgba(0, 0, 0, 0.015),
   0 21px 36px rgba(0, 0, 0, 0.03);
-  width: 50%;
+  width: 40%;
   border-radius: 0.1rem;
   padding: 1rem;
   margin: 1rem 0;
@@ -15,6 +15,10 @@
 .divider {
   height: 3px;
   width: 100%;
-  background-color: #DC9E82;
+  background-color: #dc9e82c2;
   margin: 1rem 0rem;
+}
+
+.place {
+  font-weight: bold;
 }
